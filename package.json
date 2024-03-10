@@ -1,8 +1,8 @@
 {
   "name": "mapkitjs-token-tool",
-  "version": "1.0.0",
-  "description": "Generate MapKit JS tokens",
-  "homepage": "git@github.com:pixelcation/mapkitjs-token-tool.git",
+  "version": "1.0.1",
+  "description": "pixelcation",
+  "homepage": "https://github.com/pixelcation/mapkitjs-token-tool.git",
   "license": "MIT",
   "keywords": [
     "mapkit-js",
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:pixelcation/mapkitjs-token-tool.git"
+    "url": "https://github.com/pixelcation/mapkitjs-token-tool.git"
   },
   "scripts": {
     "build": "tsc",
